@@ -1,0 +1,17 @@
+{
+  "name": "dialogflowtemplate",
+  "version": "1.0.0",
+  "description": "template for dialogflow",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dialogflow-fulfillment": "^0.3.0-beta.2",
+    "express": "^4.16.3",
+    "request": "^2.86.0",
+    "yaml-config": "^0.3.0"
+  }
+}
