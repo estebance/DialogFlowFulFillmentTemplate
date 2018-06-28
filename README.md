@@ -1,6 +1,6 @@
-# Project Title
+# DialogFlow Fulfillment Template
 
-One Paragraph of project description goes here
+This is a template to create your own Node.JS fulfillment server for DialogFlow.
 
 ## Getting Started
 
@@ -8,13 +8,15 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+You need to install [Node.JS](https://nodejs.org/en/) and [npm](https://github.com/npm/npm#super-easy-install).
 
-```
-Give examples
-```
+### Assumptions
+
+You already have a [DialogFlow](https://console.dialogflow.com/api-client/#/login) project.
 
 ### Installing
+
+Clone this repository
 
 A step by step series of examples that tell you have to get a development env running
 
@@ -58,9 +60,8 @@ Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [Node.JS](https://nodejs.org/en/) - The web framework used
+* [DialogFlow Fulfillment](https://www.npmjs.com/package/dialogflow-fulfillment) - Node.JS library used
 
 ## Contributing
 
@@ -72,7 +73,8 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Esteban Cerón** - *Initial work* - [estebance](https://github.com/estebance)
+* **Santiago Vásquez** - *Contributor* - [santiago6697](https://github.com/santiago6697)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
@@ -83,5 +85,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 
 * Hat tip to anyone who's code was used
-* Inspiration
+* Inspired on own personal experience.
 * etc
